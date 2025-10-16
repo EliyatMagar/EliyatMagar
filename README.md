@@ -39,6 +39,8 @@ Key Features: Secure user authentication & roles, integrated payment gateway, re
 
 Full-Stack Go React PostgreSQL Payment Integration
 
+→ View Code (Replace with actual link)
+
 ExpenseFlow - Personal Finance Manager
 An intuitive web application to help users track their income, expenses, and financial goals.
 
@@ -48,7 +50,7 @@ Key Features: Categorize transactions, visualize spending with charts, set budge
 
 React Node.js MongoDB Data Visualization
 
-→ Live Demo | → View Code
+→ View Code (Fixed the link)
 
 Go REST API Microservices
 A collection of high-performance backend services and APIs built with Go.
@@ -58,6 +60,8 @@ Tech: Golang, Gorilla/Mux, PostgreSQL, Docker
 Key Features: Clean architecture, JWT authentication, containerized deployment, and comprehensive unit testing.
 
 Golang Microservices Docker REST API
+
+→ View Code (Replace with actual link)
 
 📈 GitHub Statistics
 <div align="center"> <a href="https://github.com/EliyatMagar"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliyatMagar&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliyatMagar&layout=compact&theme=radical&hide_border=true&langs_count=8" /> </a> </div>
