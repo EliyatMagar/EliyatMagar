@@ -79,12 +79,9 @@ High-performance backend services with clean architecture, JWT auth, and contain
 
 ---
 
-### 🌐 Connect With Me
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-  [![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliyatMagar)
-</div>
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
