@@ -46,20 +46,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-#### **Digital Tax Payment System**  
-A full-stack platform to modernize tax payments in Nepal.  
-**Tech:** MERN Stack + Golang + PostgreSQL  
-**Features:** Auth & roles, payment integration, dashboard analytics, automated reports  
-![Project GIF](https://via.placeholder.com/600x250?text=Project+GIF)  
-[View Code](#)  
-
-#### **ExpenseFlow - Personal Finance Manager**  
-Track income, expenses, and financial goals with intuitive charts and categories.  
-**Tech:** MERN Stack (MongoDB, Express.js, React, Node.js)  
-![Project GIF](https://via.placeholder.com/600x250?text=Project+GIF)  
-[View Code](https://github.com/bisheshg/Personal_Expense_Management.git)  
 
 #### **Go REST API Microservices**  
 High-performance backend services with clean architecture, JWT auth, and containerized deployment.  
